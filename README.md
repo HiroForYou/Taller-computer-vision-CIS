@@ -12,6 +12,8 @@
 
 ## 🆕 Contenido
 - [Introducción a OpenCV](1-Introducción-OpenCV.ipynb)
+- [Regresión Logística](2-Regresión-logística.ipynb)
+- [Introducción a Sklearn](3-Introducción-Sklearn.ipynb)
 
 
 ## 👨‍💻 Maintainers
